@@ -1,0 +1,1 @@
+MATCH (mod) WHERE NOT(mod-[:VORLEISTUNG]-()) RETURN mod

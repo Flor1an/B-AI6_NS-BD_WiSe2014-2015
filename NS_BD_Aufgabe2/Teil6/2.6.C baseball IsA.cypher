@@ -1,0 +1,1 @@
+MATCH (node{id: '/c/en/baseball'})-[:IsA]-(jobC) RETURN jobC

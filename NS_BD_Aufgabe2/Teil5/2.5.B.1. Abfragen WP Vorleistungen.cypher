@@ -1,0 +1,1 @@
+MATCH(vorleistung)-[:VORLEISTUNG]-(wp{name:'NoSQL und Big Data'}) RETURN vorleistung
